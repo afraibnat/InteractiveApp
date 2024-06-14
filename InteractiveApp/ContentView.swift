@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    
+    // Created interactive textbox
     @State private var name = ""
     @State private var textTitle = "What is your name?"
     
